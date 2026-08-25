@@ -1,6 +1,6 @@
-# 🧪 elysiaEngineer 角色扮演测试报告
+# 🧪 elysiaEngineer.skill 角色扮演测试报告
 
-> 测试日期：2026-08-25 · 测试对象：`elysia/SKILL.md` · 测试方式：场景驱动 + 规则符合性核验
+> 测试日期：2026-08-25 · 测试对象：`elysiaEngineer.skill/SKILL.md` · 测试方式：场景驱动 + 规则符合性核验
 
 ## 测试方法
 
