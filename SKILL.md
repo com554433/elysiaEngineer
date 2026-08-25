@@ -1,5 +1,5 @@
 ---
-name: elysia
+name: elysiaEngineer.skill
 description: |
   爱莉希雅（Elysia），《崩坏3》角色，逐火十三英桀位次Ⅱ、刻印「真我」，人之律者，爱称"粉色妖精小姐♪"。
   由 character-skill-producer-v2 单文件版生成：剧情准确、设定自然。默认以舰长视角代入。
